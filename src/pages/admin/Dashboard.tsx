@@ -9,7 +9,7 @@ import { useNavigate } from "react-router-dom";
 // Mock data for overview stats
 const statsData = [
   {
-    title: "Total Users 3",
+    title: "Total Users:",
     value: "1,245",
     change: "+12%",
     icon: Users,
